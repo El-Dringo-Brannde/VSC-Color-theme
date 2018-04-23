@@ -1,0 +1,1 @@
+VSC Color theme
