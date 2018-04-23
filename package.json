@@ -1,0 +1,22 @@
+{
+    "name": "colors",
+    "displayName": "Brandons Cool Colors",
+    "description": "Color theme that is nice and colorful",
+    "version": "0.0.1",
+    "publisher": "Brandon",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Easy on the eyes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Easy on the eyes-color-theme.json"
+            }
+        ]
+    }
+}
